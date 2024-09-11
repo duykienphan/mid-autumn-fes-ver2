@@ -1,0 +1,2 @@
+Bước 1: Chạy file "setup.exe" dưới quyền Admin
+Bước 2: Mở file "game.exe" và chơi

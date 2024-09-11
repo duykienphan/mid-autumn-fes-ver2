@@ -124,6 +124,5 @@ class Game:
                 time.sleep(0.2)
                 return "menu"
 
-
         cv2.imshow("Hand tracking", self.frame)
         cv2.waitKey(1)
