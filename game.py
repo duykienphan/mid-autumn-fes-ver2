@@ -21,7 +21,6 @@ class Game:
         # Load camera
         self.cap = cv2.VideoCapture(0)
 
-
         self.sounds = {}
         self.sounds["pop"] = pygame.mixer.Sound(f"Assets/Sounds/pop.wav")
         self.sounds["pop"].set_volume(SOUNDS_VOLUME)

@@ -28,8 +28,6 @@ state = "menu"
 game = Game(SCREEN)
 menu = Menu(SCREEN)
 
-
-
 # Functions ------------------------------------------------------ #
 def user_events():
     for event in pygame.event.get():
